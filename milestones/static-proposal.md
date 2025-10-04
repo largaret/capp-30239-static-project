@@ -32,6 +32,4 @@ I plan to join this dataset with the SLD at county level using the county-level 
 
 ## Questions
 
-1. 
-2.
-3.
+1. I'm not sure if joining the datasets at county level will be granular enough to be interesting - if not, does it seem like it would be possible to create some kind of correspondence between precincts and census block groups?
