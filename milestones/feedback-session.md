@@ -1,15 +1,3 @@
-# Walkability in five major US cities
-
-Maggie Larson
-
-## What is your current goal? Has it changed since the proposal?
-My current goal is to compare walkability across five different metropolitan areas in the US, looking specifically at the core-based statistical areas, or CBSAs, containing New York City, Los Angeles, Chicago, Dallas and Houston. Some of the factors I plan to include in the final visualizations are the geographic layout of the metro areas, wealth, car ownership and 2020 election outcomes. (This is a change from the proposal - I was originally looking at 2024 election data, but have instead chosen 2020 since the national walkability index (NWI) numbers I'm using were calculated in 2021.) The overall aim is to highlight differences in walkability and transportation patterns in these cities.
-
-## Are there data challenges you are facing? Are you currently depending on mock data?
-All of the data used in the current visualizations is real data. The main challenge currently is finding the right level of granularity for effective visualizations - for each city there are thousands of block-level observations of varying population size and geographic size, which are both hard to visualize and difficult to compare directly. This also poses technical challenges for loading and analyzing data and generating visualizations. I am exploring different grouping approaches to reduce the number of rows.
-
-## Describe each of the provided images with 2-3 sentences to give the context and how it relates to your goal.
-
 #### How many people live in walkable areas?
 ![NWI by population](imgs/nwi_by_population_by_cbsa.png)
 Type: bar chart
@@ -69,7 +57,3 @@ These three maps of Cook County show walkability, 2020 voting patterns and the p
 ![source: https://www.transitchicago.com/maps/system/](slippymap_system.png)
 Type: map
 These map shows the number of jobs within a 45-minute commute by car and by transit respectively in Cook County. This illustrates how well different parts of the city are connected to the economic center of Chicago. Road and rail maps are provided for context.
-
-
-## What form do you envision your final narrative taking? (e.g. An article incorporating the images? A poster? An infographic?)
-I envision the final output of this project as an infographic showing both broad comparisons between the five cities and explorations of features of the individual cities.
