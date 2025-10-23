@@ -1,4 +1,3 @@
-
 #### How many people live in walkable areas?
 ![NWI by population](imgs/nwi_by_population_by_cbsa.png)
 Type: bar chart
@@ -54,5 +53,7 @@ These three maps of Cook County show walkability, 2020 voting patterns and the p
 
 ![](imgs/d4ar_chi_cook.png)
 ![source: https://gisgeography.com/chicago-map-illinois/](Chicago-Road-Map-1000x1294.jpg)
+![](imgs/d4br_chi_cook.png)
+![source: https://www.transitchicago.com/maps/system/](slippymap_system.png)
 Type: map
-This map shows the number of jobs within a 45-minute commute by car in Cook County. This illustrates how well different parts of the city are connected by road to the economic center of Chicago; I plan to compare this to a similar map showing public transit commutes.
+These map shows the number of jobs within a 45-minute commute by car and by transit respectively in Cook County. This illustrates how well different parts of the city are connected to the economic center of Chicago. Road and rail maps are provided for context.
